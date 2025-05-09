@@ -230,6 +230,29 @@
                     "required_dependencies": [],
                     "size": 1121557,
                     "date_published": "2025-05-03T14:56:30.005645Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "BSL_v10.0p1.zip",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6491/462/BSL_v10.0p1.zip",
+                    "id": "6491462",
+                    "parent_id": "322506",
+                    "hashes": {
+                        "sha1": "0c4e0241a3f53ffafa2be1818970a09caac3b748",
+                        "md5": "4f7e27189aa43c45536d63eb3c234a83"
+                    },
+                    "required_dependencies": [],
+                    "size": 1121557,
+                    "date_published": "2025-05-03T14:56:18.500Z"
                 }
             ]
         },
@@ -429,139 +452,6 @@
             ]
         },
         {
-            "pakku_id": "LxR1RN3pVRzJB4Xd",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "builders-jetpack-mod",
-                "modrinth": "builders-jetpack-mod"
-            },
-            "name": {
-                "curseforge": "Builders' Jetpack Mod",
-                "modrinth": "Builders' Jetpack Mod"
-            },
-            "id": {
-                "curseforge": "933053",
-                "modrinth": "FU3J9Ce4"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "buildersjetpackmod-3.1-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5916/556/buildersjetpackmod-3.1-1.21.1.jar",
-                    "id": "5916556",
-                    "parent_id": "933053",
-                    "hashes": {
-                        "sha1": "f6b6f6361d81828d4a64fe1f5399a4746863db7f",
-                        "md5": "a34c56ae5107e1978e6ed6d167f1194e"
-                    },
-                    "required_dependencies": [],
-                    "size": 255338,
-                    "date_published": "2024-11-18T11:24:42.757Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "buildersjetpackmod-2.0-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/FU3J9Ce4/versions/81GhRxm9/buildersjetpackmod-2.0-1.21.1.jar",
-                    "id": "81GhRxm9",
-                    "parent_id": "FU3J9Ce4",
-                    "hashes": {
-                        "sha512": "d4670f37408a8e2c5b92044ed509dc2fd7306826eedfd4343efee3ba5b965b4bb4d785ae02e47b1437f025ef5e2b10e99fc8b2b2b767cf3192c8aea964887774",
-                        "sha1": "b4184d705700123abcc4571cd6aceccf6ae55439"
-                    },
-                    "required_dependencies": [],
-                    "size": 255300,
-                    "date_published": "2024-09-21T19:45:56.520959Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "YCn54eJvNDem4CtB",
-            "pakku_links": [
-                "szcNq2wzRNZVK5K1"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "cameraoverhaul",
-                "modrinth": "cameraoverhaul"
-            },
-            "name": {
-                "curseforge": "CameraOverhaul",
-                "modrinth": "Camera Overhaul"
-            },
-            "id": {
-                "curseforge": "423602",
-                "modrinth": "m0oRwcZx"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "CameraOverhaul-v2.0.4-neoforge+mc[1.21.0-1.21.1].jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6510/155/CameraOverhaul-v2.0.4-neoforge+mc[1.21.0-1.21.1].jar",
-                    "id": "6510155",
-                    "parent_id": "423602",
-                    "hashes": {
-                        "sha1": "ae47f61145977d6d753164e454b4cbcd8b104552",
-                        "md5": "22810b5b0f44ad6299cd54905c4b1a13"
-                    },
-                    "required_dependencies": [
-                        "348521"
-                    ],
-                    "size": 141038,
-                    "date_published": "2025-05-08T20:01:30.150Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "CameraOverhaul-v2.0.4-neoforge+mc[1.21.0-1.21.1].jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/m0oRwcZx/versions/TcRjh7IY/CameraOverhaul-v2.0.4-neoforge+mc[1.21.0-1.21.1].jar",
-                    "id": "TcRjh7IY",
-                    "parent_id": "m0oRwcZx",
-                    "hashes": {
-                        "sha512": "244b09ab93e220daddea9014a527177c6afab84ba045029daf1c80f81800c84f326cc545868683a317ffb311a1a3f9df146f171b29cee3b37dd727a6fc571472",
-                        "sha1": "ae47f61145977d6d753164e454b4cbcd8b104552"
-                    },
-                    "required_dependencies": [
-                        "9s6osm5g"
-                    ],
-                    "size": 141038,
-                    "date_published": "2025-05-08T20:01:29.680596Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "KZt6tJOY7FzimCao",
             "type": "MOD",
             "side": "BOTH",
@@ -640,28 +530,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "cherishedworlds-neoforge-10.1.0+1.21.1.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5846/430/cherishedworlds-neoforge-10.1.0+1.21.1.jar",
-                    "id": "5846430",
-                    "parent_id": "308240",
-                    "hashes": {
-                        "sha1": "4eccc202a73034825826d1bcde69aeb8ec0bf385",
-                        "md5": "7440023ca7bdd0336d3385cea274ffa8"
-                    },
-                    "required_dependencies": [],
-                    "size": 61470,
-                    "date_published": "2024-10-26T03:23:44.477Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "cherishedworlds-neoforge-10.1.1+1.21.1.jar",
                     "mc_versions": [
@@ -682,6 +550,28 @@
                     "required_dependencies": [],
                     "size": 61728,
                     "date_published": "2025-03-27T02:28:00.347837Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "cherishedworlds-neoforge-10.1.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6353/949/cherishedworlds-neoforge-10.1.1+1.21.1.jar",
+                    "id": "6353949",
+                    "parent_id": "308240",
+                    "hashes": {
+                        "sha1": "aefc8c79ba62606a71f509a9b3c881f3fc4cad5c",
+                        "md5": "50000216ea6f19e95dc3d041c3d816cd"
+                    },
+                    "required_dependencies": [],
+                    "size": 61728,
+                    "date_published": "2025-03-27T02:28:02.327Z"
                 }
             ]
         },
@@ -869,31 +759,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "collective-1.21.1-7.94.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge",
-                        "forge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6271/557/collective-1.21.1-7.94.jar",
-                    "id": "6271557",
-                    "parent_id": "342584",
-                    "hashes": {
-                        "sha1": "3376963a492f0e99236296315e62ff1399276bb1",
-                        "md5": "9eb4576c9d506533bd2c42faa1726c32"
-                    },
-                    "required_dependencies": [],
-                    "size": 932670,
-                    "date_published": "2025-03-06T16:19:15.973Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "collective-1.21.1-8.3.jar",
                     "mc_versions": [
@@ -917,6 +782,31 @@
                     "required_dependencies": [],
                     "size": 934732,
                     "date_published": "2025-04-16T14:10:55.822574Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "collective-1.21.1-8.3.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6429/221/collective-1.21.1-8.3.jar",
+                    "id": "6429221",
+                    "parent_id": "342584",
+                    "hashes": {
+                        "sha1": "ac856f7552dae7fa65e9616e2e33f89cd7cbbab6",
+                        "md5": "c8175232e3316ff51c6836839c9a714b"
+                    },
+                    "required_dependencies": [],
+                    "size": 934732,
+                    "date_published": "2025-04-16T14:09:42.337Z"
                 }
             ]
         },
@@ -1157,6 +1047,43 @@
             ]
         },
         {
+            "pakku_id": "FD1pGjZeHkv3YxQv",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "c2me-neoforge"
+            },
+            "name": {
+                "modrinth": "Concurrent Chunk Management Engine (NeoForge)"
+            },
+            "id": {
+                "modrinth": "COlSi5iR"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.63.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/COlSi5iR/versions/nlEukRtE/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.63.jar",
+                    "id": "nlEukRtE",
+                    "parent_id": "COlSi5iR",
+                    "hashes": {
+                        "sha512": "132b540d6107dff80aa60c9f8430fa323739ebe9ac706024d9dd8506174c37563a91777635f47181276d67f8b705d3c5112e81e178cee94aa23c4265a78bcdf2",
+                        "sha1": "58e2a73dcd5c3ac2e7b3692c694a05e05e126f9c"
+                    },
+                    "required_dependencies": [],
+                    "size": 4488530,
+                    "date_published": "2025-04-28T15:10:04.788645Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "02qNKVMoNxek8h26",
             "type": "MOD",
             "slug": {
@@ -1211,29 +1138,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "Controlling-neoforge-1.21.1-19.0.4.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6085/646/Controlling-neoforge-1.21.1-19.0.4.jar",
-                    "id": "6085646",
-                    "parent_id": "250398",
-                    "hashes": {
-                        "sha1": "14305e2d33f9ad557a7b2c1f7fa514e9338aabe2",
-                        "md5": "2292fed6128536da67b56d19b9fc756e"
-                    },
-                    "required_dependencies": [
-                        "858542"
-                    ],
-                    "size": 77508,
-                    "date_published": "2025-01-14T05:27:36.977Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "Controlling-neoforge-1.21.1-19.0.5.jar",
                     "mc_versions": [
@@ -1255,6 +1159,29 @@
                     ],
                     "size": 77555,
                     "date_published": "2025-03-30T23:44:43.868835Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Controlling-neoforge-1.21.1-19.0.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar",
+                    "id": "6368976",
+                    "parent_id": "250398",
+                    "hashes": {
+                        "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
+                        "md5": "7141c2d0bb774dc6e4481be32b685179"
+                    },
+                    "required_dependencies": [
+                        "858542"
+                    ],
+                    "size": 77555,
+                    "date_published": "2025-03-30T23:44:28.983Z"
                 }
             ]
         },
@@ -1845,75 +1772,6 @@
             ]
         },
         {
-            "pakku_id": "PUBSMnNJOeeb3vfY",
-            "pakku_links": [
-                "80Yw9jX2V6HGMKTe"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-dreams-and-desires",
-                "curseforge": "create-dreams-desires"
-            },
-            "name": {
-                "modrinth": "Create: Dreams & Desires",
-                "curseforge": "Create: Dreams n' Desires"
-            },
-            "id": {
-                "modrinth": "JmybsfWs",
-                "curseforge": "864781"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "Create_Desires-2-Dreams-1.21.1-2.0.0.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/zUkXiIr8/Create_Desires-2-Dreams-1.21.1-2.0.0.jar",
-                    "id": "zUkXiIr8",
-                    "parent_id": "JmybsfWs",
-                    "hashes": {
-                        "sha512": "30cf875031d2572930707309d1b6854ad76055b86f09c7b7b58393deec9d47b456d07c6adf5c4d6fe80824b6b6a2810f3fcbddce5beb05248804792f7080fac7",
-                        "sha1": "1e44ead3684041838e14608894ff8b1fb391f53e"
-                    },
-                    "required_dependencies": [
-                        "LNytGWDc"
-                    ],
-                    "size": 18948099,
-                    "date_published": "2025-03-09T04:50:06.151303Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "Create_Desires-2-Dreams-1.21.1-2.0.0.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6282/649/Create_Desires-2-Dreams-1.21.1-2.0.0.jar",
-                    "id": "6282649",
-                    "parent_id": "864781",
-                    "hashes": {
-                        "sha1": "1e44ead3684041838e14608894ff8b1fb391f53e",
-                        "md5": "6975c388254ce714cd615d1c7646bdf2"
-                    },
-                    "required_dependencies": [],
-                    "size": 18948099,
-                    "date_published": "2025-03-09T04:49:32.857Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "EINzFfXiTxpb6AVd",
             "pakku_links": [
                 "lqYPhU2S0AU800RG"
@@ -2024,6 +1882,27 @@
                     ],
                     "size": 121297,
                     "date_published": "2025-03-10T00:09:26.169678Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "create_oxidized-0.1.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6286/593/create_oxidized-0.1.3.jar",
+                    "id": "6286593",
+                    "parent_id": "953729",
+                    "hashes": {
+                        "sha1": "fe93a9575174b4993cf3fb5f2aed4dd4431096ee",
+                        "md5": "63882f71dc6a1dc47338219a4ab81a06"
+                    },
+                    "required_dependencies": [],
+                    "size": 121297,
+                    "date_published": "2025-03-10T00:08:52.520Z"
                 }
             ]
         },
@@ -2412,28 +2291,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "curios-neoforge-9.3.1+1.21.1.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6296/219/curios-neoforge-9.3.1+1.21.1.jar",
-                    "id": "6296219",
-                    "parent_id": "309927",
-                    "hashes": {
-                        "sha1": "78ac2a1f274d8149bd0a3e82d77147220b55e7ab",
-                        "md5": "b8e6febeb45417fc49623c86bbee72b7"
-                    },
-                    "required_dependencies": [],
-                    "size": 396089,
-                    "date_published": "2025-03-12T14:38:32.190Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "curios-neoforge-9.4.2+1.21.1.jar",
                     "mc_versions": [
@@ -2454,6 +2311,28 @@
                     "required_dependencies": [],
                     "size": 402149,
                     "date_published": "2025-04-09T05:52:17.400692Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "curios-neoforge-9.4.2+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6401/872/curios-neoforge-9.4.2+1.21.1.jar",
+                    "id": "6401872",
+                    "parent_id": "309927",
+                    "hashes": {
+                        "sha1": "0b31f58fd4606d7a3ab15d7e75f4ad61a9e7508b",
+                        "md5": "72c74ca64ac91fde033d69c9c2e45154"
+                    },
+                    "required_dependencies": [],
+                    "size": 402149,
+                    "date_published": "2025-04-09T05:52:19.500Z"
                 }
             ]
         },
@@ -2677,27 +2556,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "emi-1.1.20+1.21.1+neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6205/506/emi-1.1.20+1.21.1+neoforge.jar",
-                    "id": "6205506",
-                    "parent_id": "580555",
-                    "hashes": {
-                        "sha1": "091c340b5ee2b0db55a388a8b6f992ea46e638cd",
-                        "md5": "1f44cf5f69d4c94721ab20ae492473b7"
-                    },
-                    "required_dependencies": [],
-                    "size": 1027604,
-                    "date_published": "2025-02-18T04:56:55.957Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "emi-1.1.22+1.21.1+neoforge.jar",
                     "mc_versions": [
@@ -2717,6 +2575,27 @@
                     "required_dependencies": [],
                     "size": 1038248,
                     "date_published": "2025-04-14T03:34:26.836424Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "emi-1.1.22+1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6420/931/emi-1.1.22+1.21.1+neoforge.jar",
+                    "id": "6420931",
+                    "parent_id": "580555",
+                    "hashes": {
+                        "sha1": "cbbd038194cd63249db185c53b1d50a1767f80a3",
+                        "md5": "ca9775a6f300989cb4d2063e1833579b"
+                    },
+                    "required_dependencies": [],
+                    "size": 1038248,
+                    "date_published": "2025-04-14T03:34:37.090Z"
                 }
             ]
         },
@@ -2881,30 +2760,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "emi_loot-0.7.5+1.21+neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6155/842/emi_loot-0.7.5+1.21+neoforge.jar",
-                    "id": "6155842",
-                    "parent_id": "681783",
-                    "hashes": {
-                        "sha1": "352aff9a7217a9cc78e109762fbe28fd8b369c7e",
-                        "md5": "51c974eae02710d0560486b3543042c1"
-                    },
-                    "required_dependencies": [
-                        "1005914",
-                        "580555"
-                    ],
-                    "size": 425870,
-                    "date_published": "2025-02-04T01:35:16.287Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "emi_loot-0.7.6+1.21+neoforge.jar",
                     "mc_versions": [
@@ -2928,6 +2783,30 @@
                     ],
                     "size": 447734,
                     "date_published": "2025-04-21T19:03:54.527635Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "emi_loot-0.7.6+1.21+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6449/102/emi_loot-0.7.6+1.21+neoforge.jar",
+                    "id": "6449102",
+                    "parent_id": "681783",
+                    "hashes": {
+                        "sha1": "5429623ee1e27c6d4e820c0514233089140fd48c",
+                        "md5": "1064ccb37763206aace843bea8d7b2d3"
+                    },
+                    "required_dependencies": [
+                        "1005914",
+                        "580555"
+                    ],
+                    "size": 447734,
+                    "date_published": "2025-04-21T19:15:18.700Z"
                 }
             ]
         },
@@ -3841,30 +3720,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "fzzy_config-0.6.6+1.21+neoforge.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6313/574/fzzy_config-0.6.6+1.21+neoforge.jar",
-                    "id": "6313574",
-                    "parent_id": "1005914",
-                    "hashes": {
-                        "sha1": "79f19aa994cfe68ad41416d7d97d9fbd182d4ca0",
-                        "md5": "668c2a15cc3166d9e88099f84b92763f"
-                    },
-                    "required_dependencies": [
-                        "351264"
-                    ],
-                    "size": 2034409,
-                    "date_published": "2025-03-16T22:30:23.810Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "fzzy_config-0.6.9+1.21+neoforge.jar",
                     "mc_versions": [
@@ -3887,6 +3742,30 @@
                     ],
                     "size": 2144031,
                     "date_published": "2025-04-09T23:15:14.267993Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "fzzy_config-0.6.9+1.21+neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6405/153/fzzy_config-0.6.9+1.21+neoforge.jar",
+                    "id": "6405153",
+                    "parent_id": "1005914",
+                    "hashes": {
+                        "sha1": "5510784a9c9b8488ac76cc7d6d74315418be2b54",
+                        "md5": "25f4429920c5329dc780cd8136b22539"
+                    },
+                    "required_dependencies": [
+                        "351264"
+                    ],
+                    "size": 2144031,
+                    "date_published": "2025-04-09T23:15:06.377Z"
                 }
             ]
         },
@@ -4072,6 +3951,73 @@
                     "required_dependencies": [],
                     "size": 256473,
                     "date_published": "2025-04-02T08:37:48.282791Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bRHhwH64KJo7XsvW",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "incendium",
+                "modrinth": "incendium"
+            },
+            "name": {
+                "curseforge": "Incendium",
+                "modrinth": "Incendium"
+            },
+            "id": {
+                "curseforge": "591388",
+                "modrinth": "ZVzW5oNS"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Incendium_1.21.x_v5.4.6.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6408/627/Incendium_1.21.x_v5.4.6.jar",
+                    "id": "6408627",
+                    "parent_id": "591388",
+                    "hashes": {
+                        "sha1": "f64241d2e1f722ced8a67e35a481ac0cee8b0de0",
+                        "md5": "32dea4ca7826793ec1b4906eaf1d462c"
+                    },
+                    "required_dependencies": [],
+                    "size": 4144112,
+                    "date_published": "2025-04-10T22:06:16.293Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Incendium_1.21.x_v5.4.6.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/CxlxCNyx/Incendium_1.21.x_v5.4.6.jar",
+                    "id": "CxlxCNyx",
+                    "parent_id": "ZVzW5oNS",
+                    "hashes": {
+                        "sha512": "b432aab5c359745ed7b19da0ea4d7921b059def10f45082e54de7f3b25c9991edbe41c88012f6850e90b3386e615c49d24d4237cb4e10b69af0c18a0568929eb",
+                        "sha1": "f64241d2e1f722ced8a67e35a481ac0cee8b0de0"
+                    },
+                    "required_dependencies": [],
+                    "size": 4144112,
+                    "date_published": "2025-04-10T22:06:15.138626Z"
                 }
             ]
         },
@@ -4304,27 +4250,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "Jade-1.21.1-NeoForge-15.9.2.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6011/258/Jade-1.21.1-NeoForge-15.9.2.jar",
-                    "id": "6011258",
-                    "parent_id": "324717",
-                    "hashes": {
-                        "sha1": "6b150830f1f38e9f8930af846719b9fc94818c9c",
-                        "md5": "c00a9d4893980c1b2451e6d1f7b73d18"
-                    },
-                    "required_dependencies": [],
-                    "size": 719614,
-                    "date_published": "2024-12-21T18:38:23.867Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "Jade-1.21.1-NeoForge-15.10.0.jar",
                     "mc_versions": [
@@ -4344,6 +4269,27 @@
                     "required_dependencies": [],
                     "size": 726119,
                     "date_published": "2025-03-11T09:38:24.870984Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Jade-1.21.1-NeoForge-15.10.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6291/517/Jade-1.21.1-NeoForge-15.10.0.jar",
+                    "id": "6291517",
+                    "parent_id": "324717",
+                    "hashes": {
+                        "sha1": "ff2c8667634f4414ca5061c54962262f0c8ee3fe",
+                        "md5": "4c257f2f3dbebb05a7783aa4f320c86c"
+                    },
+                    "required_dependencies": [],
+                    "size": 726119,
+                    "date_published": "2025-03-11T09:38:19.067Z"
                 }
             ]
         },
@@ -4428,33 +4374,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "kotlinforforge-5.7.0-all.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.5",
-                        "1.21.4",
-                        "1.21.3",
-                        "1.21.1",
-                        "1.21.2"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5978/393/kotlinforforge-5.7.0-all.jar",
-                    "id": "5978393",
-                    "parent_id": "351264",
-                    "hashes": {
-                        "sha1": "f276d27f2930a44e7224080b5ccdcae4029b4d9a",
-                        "md5": "5a42c6824502f2f7b478efc47e52db2d"
-                    },
-                    "required_dependencies": [],
-                    "size": 6384471,
-                    "date_published": "2024-12-09T21:57:28.627Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "kotlinforforge-5.8.0-all.jar",
                     "mc_versions": [
@@ -4481,6 +4400,33 @@
                     "required_dependencies": [],
                     "size": 6449666,
                     "date_published": "2025-05-08T21:16:50.861715Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "kotlinforforge-5.8.0-all.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6497/906/kotlinforforge-5.8.0-all.jar",
+                    "id": "6497906",
+                    "parent_id": "351264",
+                    "hashes": {
+                        "sha1": "d979656ab0cc395cb0819378eff839c5070a0ef9",
+                        "md5": "046def10d62e5fbeb0ff5bb95828355a"
+                    },
+                    "required_dependencies": [],
+                    "size": 6449666,
+                    "date_published": "2025-05-05T07:11:02.707Z"
                 }
             ]
         },
@@ -4821,27 +4767,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "modernfix-neoforge-5.20.2+mc1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6125/147/modernfix-neoforge-5.20.2+mc1.21.1.jar",
-                    "id": "6125147",
-                    "parent_id": "790626",
-                    "hashes": {
-                        "sha1": "1ba69f600fb8c2f5bd5d73db0a530bcc2b576dec",
-                        "md5": "200ef601951d012bbe622bd3397818c2"
-                    },
-                    "required_dependencies": [],
-                    "size": 497907,
-                    "date_published": "2025-01-26T00:48:31.650Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "modernfix-neoforge-5.21.0+mc1.21.1.jar",
                     "mc_versions": [
@@ -4861,6 +4786,27 @@
                     "required_dependencies": [],
                     "size": 505890,
                     "date_published": "2025-04-06T19:29:10.197562Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "modernfix-neoforge-5.21.0+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6392/739/modernfix-neoforge-5.21.0+mc1.21.1.jar",
+                    "id": "6392739",
+                    "parent_id": "790626",
+                    "hashes": {
+                        "sha1": "5cf690fa025879ffb2f956ac9c9a6152b54fc6a4",
+                        "md5": "431e84cda291474b81cc6f10b121d31d"
+                    },
+                    "required_dependencies": [],
+                    "size": 505890,
+                    "date_published": "2025-04-06T19:29:06.060Z"
                 }
             ]
         },
@@ -5388,6 +5334,83 @@
             ]
         },
         {
+            "pakku_id": "9kA9MdmBEZF7f45h",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "nullscape",
+                "modrinth": "nullscape"
+            },
+            "name": {
+                "curseforge": "Nullscape",
+                "modrinth": "Nullscape"
+            },
+            "id": {
+                "curseforge": "570354",
+                "modrinth": "LPjGiSO4"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Nullscape_1.21.x_v1.2.11.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6402/757/Nullscape_1.21.x_v1.2.11.jar",
+                    "id": "6402757",
+                    "parent_id": "570354",
+                    "hashes": {
+                        "sha1": "912161188567fff169f0fed0e7843f9d5f71ad6b",
+                        "md5": "4da33d43d36f509adf11c8c62e7d52cb"
+                    },
+                    "required_dependencies": [],
+                    "size": 350984,
+                    "date_published": "2025-04-09T13:09:46.577Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Nullscape_1.21.x_v1.2.11.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/4qC7kfiC/Nullscape_1.21.x_v1.2.11.jar",
+                    "id": "4qC7kfiC",
+                    "parent_id": "LPjGiSO4",
+                    "hashes": {
+                        "sha512": "a5b69c029efba7f0d65b641f5bfa31c750248a29520f5bb498a091bb9f3d245b570d353af3cd9400e9d47c8268bd9abf7bf57b52a3c23a1610d6f7eebf46f7e0",
+                        "sha1": "912161188567fff169f0fed0e7843f9d5f71ad6b"
+                    },
+                    "required_dependencies": [],
+                    "size": 350984,
+                    "date_published": "2025-04-09T13:09:45.722088Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "pvGWDMpw79ueJxh8",
             "type": "MOD",
             "side": "CLIENT",
@@ -5404,28 +5427,6 @@
                 "modrinth": "aXf2OSFU"
             },
             "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "ok_zoomer-neo-10.0.0-beta.8.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/5993/94/ok_zoomer-neo-10.0.0-beta.8.jar",
-                    "id": "5993094",
-                    "parent_id": "354047",
-                    "hashes": {
-                        "sha1": "497d9fc21eda48957a493a80087068eaaa0edec9",
-                        "md5": "5808bcf12dc44a1a5fac14ba68beb40b"
-                    },
-                    "required_dependencies": [],
-                    "size": 377805,
-                    "date_published": "2024-12-15T12:19:47.787Z"
-                },
                 {
                     "type": "modrinth",
                     "file_name": "ok_zoomer-neo-10.0.0-beta.10.jar",
@@ -5447,6 +5448,28 @@
                     "required_dependencies": [],
                     "size": 386675,
                     "date_published": "2025-04-09T18:23:52.273325Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "ok_zoomer-neo-10.0.0-beta.10.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6404/35/ok_zoomer-neo-10.0.0-beta.10.jar",
+                    "id": "6404035",
+                    "parent_id": "354047",
+                    "hashes": {
+                        "sha1": "265d5d762ed50f5d506c7160f83c22000aa13df4",
+                        "md5": "d922be15086235d0e8ccf8a019bb6515"
+                    },
+                    "required_dependencies": [],
+                    "size": 386675,
+                    "date_published": "2025-04-09T18:23:38.730Z"
                 }
             ]
         },
@@ -5535,28 +5558,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "polymorph-neoforge-1.0.7+1.21.1.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5995/380/polymorph-neoforge-1.0.7+1.21.1.jar",
-                    "id": "5995380",
-                    "parent_id": "388800",
-                    "hashes": {
-                        "sha1": "9f3b342a1b91f08e272b7bc60cd52b331316b673",
-                        "md5": "b51a1bcc7de350546e16ccdf78dc1f2f"
-                    },
-                    "required_dependencies": [],
-                    "size": 172993,
-                    "date_published": "2024-12-16T07:11:15.870Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "polymorph-neoforge-1.0.10+1.21.1.jar",
                     "mc_versions": [
@@ -5577,6 +5578,28 @@
                     "required_dependencies": [],
                     "size": 174468,
                     "date_published": "2025-04-22T08:09:40.653170Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "polymorph-neoforge-1.0.10+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6451/24/polymorph-neoforge-1.0.10+1.21.1.jar",
+                    "id": "6451024",
+                    "parent_id": "388800",
+                    "hashes": {
+                        "sha1": "2b2d3364947e74e6386d9971452ce3de6f7911d0",
+                        "md5": "2a5430d2fa5ab7ea80b4f7a3c68591b3"
+                    },
+                    "required_dependencies": [],
+                    "size": 174468,
+                    "date_published": "2025-04-22T08:09:41.473Z"
                 }
             ]
         },
@@ -6019,28 +6042,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "voicechat-neoforge-1.21.1-2.5.26.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5907/384/voicechat-neoforge-1.21.1-2.5.26.jar",
-                    "id": "5907384",
-                    "parent_id": "416089",
-                    "hashes": {
-                        "sha1": "4005ef27e22aef36a7b8d4398a1842452befda84",
-                        "md5": "9c04147f56a3ba69c1610099df7ec57b"
-                    },
-                    "required_dependencies": [],
-                    "size": 6126540,
-                    "date_published": "2024-11-16T09:06:46.263Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "voicechat-neoforge-1.21.1-2.5.30.jar",
                     "mc_versions": [
@@ -6061,6 +6062,28 @@
                     "required_dependencies": [],
                     "size": 6147622,
                     "date_published": "2025-04-19T09:51:48.621147Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "voicechat-neoforge-1.21.1-2.5.30.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6439/546/voicechat-neoforge-1.21.1-2.5.30.jar",
+                    "id": "6439546",
+                    "parent_id": "416089",
+                    "hashes": {
+                        "sha1": "e8a4821459a00fdff72fbe9ac8436fce26a99d28",
+                        "md5": "243a4e0a9369765c6adecc30047c60e3"
+                    },
+                    "required_dependencies": [],
+                    "size": 6147622,
+                    "date_published": "2025-04-19T09:51:26.363Z"
                 }
             ]
         },
@@ -6146,27 +6169,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "sodium-neoforge-0.6.9+mc1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6211/307/sodium-neoforge-0.6.9+mc1.21.1.jar",
-                    "id": "6211307",
-                    "parent_id": "394468",
-                    "hashes": {
-                        "sha1": "489fa60823fdde380618ce2ae7dcb1b8423ffddc",
-                        "md5": "10e1ca13d5be153f1d2376c728fd939a"
-                    },
-                    "required_dependencies": [],
-                    "size": 1162487,
-                    "date_published": "2025-02-19T22:39:34.987Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
                     "mc_versions": [
@@ -6186,6 +6188,27 @@
                     "required_dependencies": [],
                     "size": 1162994,
                     "date_published": "2025-04-04T00:08:12.456557Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13+mc1.21.1.jar",
+                    "id": "6382651",
+                    "parent_id": "394468",
+                    "hashes": {
+                        "sha1": "38af70fa4dc4b2aaac636e92fdba3bedd5a025e1",
+                        "md5": "e5018c782d851fea76be0205b7616e5d"
+                    },
+                    "required_dependencies": [],
+                    "size": 1162994,
+                    "date_published": "2025-04-04T00:13:49.467Z"
                 }
             ]
         },
@@ -6662,7 +6685,7 @@
             ]
         },
         {
-            "pakku_id": "S9IOXKTPi2inHiIF",
+            "pakku_id": "FufFHEHNi2snLDxQ",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -6708,7 +6731,7 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "Terralith_1.21_v2.5.8.zip",
+                    "file_name": "Terralith_1.21.x_v2.5.8.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1",
@@ -6717,19 +6740,22 @@
                         "1.21.4"
                     ],
                     "loaders": [
-                        "datapack"
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/urbokcOc/Terralith_1.21_v2.5.8.zip",
-                    "id": "urbokcOc",
+                    "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/MuJMtPGQ/Terralith_1.21.x_v2.5.8.jar",
+                    "id": "MuJMtPGQ",
                     "parent_id": "8oi3bsk5",
                     "hashes": {
-                        "sha512": "31dfba2a60d144ca3af3c0aa8662db84f3e966fdb555b9eadbd5bdf4e4d864d2e4a8393b99388c0eaa0f03052bf35b6ae44b1858fa046fae35d408c40b789166",
-                        "sha1": "fc1349e387e480bec84c6813d1d75e85c3a5ac4f"
+                        "sha512": "f862ed5435ce4c11a97d2ea5c40eee9f817c908f3223b5fd3e3fff0562a55111d7429dc73a2f1ca0b1af7b1ff6fa0470ed6efebb5de13336c40bb70fb357dd60",
+                        "sha1": "bee0cfb1a8cd4bf3d96bccea224fb45d74de9085"
                     },
                     "required_dependencies": [],
-                    "size": 3112105,
-                    "date_published": "2025-01-15T16:46:11.544593Z"
+                    "size": 3115385,
+                    "date_published": "2025-01-15T16:45:23.822443Z"
                 }
             ]
         },
@@ -6980,30 +7006,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "watut-neoforge-1.21.0-1.2.3.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6315/277/watut-neoforge-1.21.0-1.2.3.jar",
-                    "id": "6315277",
-                    "parent_id": "945479",
-                    "hashes": {
-                        "sha1": "9b3c00a93632adf61730f6036e8747a6021294ed",
-                        "md5": "a5328a7f3289eacb7a64e34c6290be85"
-                    },
-                    "required_dependencies": [
-                        "237749"
-                    ],
-                    "size": 431061,
-                    "date_published": "2025-03-17T12:57:04.043Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "watut-neoforge-1.21.0-1.2.7.jar",
                     "mc_versions": [
@@ -7026,6 +7028,30 @@
                     ],
                     "size": 432269,
                     "date_published": "2025-04-13T13:49:23.080194Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "watut-neoforge-1.21.0-1.2.7.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6418/577/watut-neoforge-1.21.0-1.2.7.jar",
+                    "id": "6418577",
+                    "parent_id": "945479",
+                    "hashes": {
+                        "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
+                        "md5": "31cfc24b7997dbf6ed84cd844de37d7d"
+                    },
+                    "required_dependencies": [
+                        "237749"
+                    ],
+                    "size": 432269,
+                    "date_published": "2025-04-13T13:49:19.087Z"
                 }
             ]
         },
@@ -7047,28 +7073,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "Xaeros_Minimap_25.1.0_NeoForge_1.21.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6184/458/Xaeros_Minimap_25.1.0_NeoForge_1.21.jar",
-                    "id": "6184458",
-                    "parent_id": "263420",
-                    "hashes": {
-                        "sha1": "9a63b37ea38aa23376d21299b2849905666bff09",
-                        "md5": "cb7ec7a100cd71d189778e51c3ffe7ec"
-                    },
-                    "required_dependencies": [],
-                    "size": 1657036,
-                    "date_published": "2025-02-12T09:54:00.587Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "Xaeros_Minimap_25.2.0_NeoForge_1.21.jar",
                     "mc_versions": [
@@ -7089,6 +7093,27 @@
                     "required_dependencies": [],
                     "size": 1689472,
                     "date_published": "2025-03-15T09:06:08.513626Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Xaeros_Minimap_25.2.0_NeoForge_1.21.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6306/189/Xaeros_Minimap_25.2.0_NeoForge_1.21.jar",
+                    "id": "6306189",
+                    "parent_id": "263420",
+                    "hashes": {
+                        "sha1": "5ea4b4d233a287cdfa8bbac341105039b1a55ba7",
+                        "md5": "4ec6365eab4431ffef34fffccc25500b"
+                    },
+                    "required_dependencies": [],
+                    "size": 1689472,
+                    "date_published": "2025-03-15T08:50:07.420Z"
                 }
             ]
         },
@@ -7193,6 +7218,69 @@
                     "required_dependencies": [],
                     "size": 385307,
                     "date_published": "2025-05-02T22:27:47.152960Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "COzZDH4wd5wLgGdY",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "yacl",
+                "modrinth": "yacl"
+            },
+            "name": {
+                "curseforge": "YetAnotherConfigLib",
+                "modrinth": "YetAnotherConfigLib (YACL)"
+            },
+            "id": {
+                "curseforge": "667299",
+                "modrinth": "1eAoo2KR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6336/630/yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar",
+                    "id": "6336630",
+                    "parent_id": "667299",
+                    "hashes": {
+                        "sha1": "fb169516f39dba60a40845f7eb72b9576a362f5b",
+                        "md5": "1448b1a843a8591e1d1d30d62023ffd5"
+                    },
+                    "required_dependencies": [],
+                    "size": 1103081,
+                    "date_published": "2025-03-23T19:08:21.097Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/ACDNgCDA/yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar",
+                    "id": "ACDNgCDA",
+                    "parent_id": "1eAoo2KR",
+                    "hashes": {
+                        "sha512": "7a3086e88e5df306ce39dd7513616fd5c04653093b104d2897a88a0331d899bd10c3ce7fe9fbf9d1452cf159cd036304223da5c38eba7b884b24fa848a1ea240",
+                        "sha1": "fb169516f39dba60a40845f7eb72b9576a362f5b"
+                    },
+                    "required_dependencies": [],
+                    "size": 1103081,
+                    "date_published": "2025-03-23T19:08:20.824303Z"
                 }
             ]
         },

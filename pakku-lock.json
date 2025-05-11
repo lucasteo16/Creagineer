@@ -709,6 +709,68 @@
             ]
         },
         {
+            "pakku_id": "SZpabTEEL819F4lI",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "better-weaponry-better-combat",
+                "modrinth": "better-weaponry"
+            },
+            "name": {
+                "curseforge": "Better Weaponry - Better Combat",
+                "modrinth": "Better Weaponry"
+            },
+            "id": {
+                "curseforge": "990523",
+                "modrinth": "2cJG8mMz"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "better_weaponry-1.1.3-neoforge-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6046/461/better_weaponry-1.1.3-neoforge-1.21.1.jar",
+                    "id": "6046461",
+                    "parent_id": "990523",
+                    "hashes": {
+                        "sha1": "0f7b6c9bc0607901f783b4c69a15332d33c920cf",
+                        "md5": "13d8c3b4e9995372e53682ecdc3b0bcb"
+                    },
+                    "required_dependencies": [],
+                    "size": 666931,
+                    "date_published": "2025-01-02T18:00:25.143Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "better_weaponry-1.1.3-neoforge-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/2cJG8mMz/versions/PDtnaJbV/better_weaponry-1.1.3-neoforge-1.21.1.jar",
+                    "id": "PDtnaJbV",
+                    "parent_id": "2cJG8mMz",
+                    "hashes": {
+                        "sha512": "1c9abf8a2cc7af5db9a0d2b7f0088b2463cc3d254911a5f04794017800f9aa82ae1faa7c8e7a111ede5e722934ccdedb243651a0fb02aeb49a5a65f2d4436096",
+                        "sha1": "0f7b6c9bc0607901f783b4c69a15332d33c920cf"
+                    },
+                    "required_dependencies": [],
+                    "size": 666931,
+                    "date_published": "2025-01-02T18:06:18.249860Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "44O8ZwV2i0sdYaWb",
             "type": "MOD",
             "side": "CLIENT",

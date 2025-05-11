@@ -20,15 +20,15 @@ A modpack focusing on `Create` with a touch of survival and adventurous content.
         - `Create: Oxidized` (Create oxidation recipe)
         - `Create: Central Kitchen` (Create and Farmer's Delight integration)
 - Adventure
-    - `@compass` adventurer compass & nature's compass (biome and structure search)
-    - `@deeper` deeper and darker (deep dark dimension)
-    - `@bosses` bosses of mass destruction (terraria alike bosses) 
-    - `@cataclysm` l ender's cataclysm (RPG style bosses with cool animations)
-    - `Terralith` (overworld generation with vanilla only blocks)
-    - `Tectonic` (scale up world generation biome size)
-    - `Incendius` (nether generation) 
+    - `@compass` `Adventurer Compass` & `Nature's Compass` (Biome and structure compass)
+    - `@deeper` `Deeper and Darker` (Deep dark dimension)
+    - `@bosses` `Bosses of Mass Destruction` (Terraria alike bosses) 
+    - `@cataclysm` `L ender's cataclysm` (RPG style bosses with cool animations)
+    - `Tectonic` (Scaled world generation)
+    - `Terralith` (Overworld generation)
+    - `Incendius` (Nether generation) 
     - `Nullscape` (the end generation)
-    - All `Yung's Structures` (structures)
+    - All `Yung's Structures` (Structures)
 - Mobs
     - `@creeper` `Creeper Overhaul` (Creeper variants)
     - `@enderman` `Enderman Overhaul` (Enderman variants)
@@ -49,6 +49,8 @@ A modpack focusing on `Create` with a touch of survival and adventurous content.
 - Customizable Visuals
     - `Euphoria Patcher` (Complimentary Shader addon)
     - `Distant Horizon` (LOD system to see beyond chunk loaded areas)
+
+> Some mods aren't listed as they are either optimization or none gameplay related.
 
 ## Dev Feature
 

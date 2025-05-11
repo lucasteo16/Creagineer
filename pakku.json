@@ -1,9 +1,10 @@
 {
     "name": "creangineer",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "description": "A vast hostile world for create engineer",
     "author": "darkluck",
     "overrides": [
-        "config"
+        "config",
+        "journeymap"
     ]
 }

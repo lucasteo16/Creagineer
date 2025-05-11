@@ -55,6 +55,13 @@ A modpack focusing on `Create` with a touch of survival and adventurous content.
 ## Dev Feature
 
 - Special Lib 
-    - `Sinytra Connector` (A mod that allows installation of fabric mod in Neoforge loader)
+    - `Sinytra Connector` (A mod that allows installation of Fabric mod in Neoforge loader)
     - `Chunky` (Server side chunk pre-generation tool)
+
+## Development
+
+[Pakku Cli](https://github.com/juraj-hrivnak/Pakku) is the modpack manager that this repository uses.
+
+> Pakku has no support for mixing Neoforge and Fabric mods, but `Sinytra Connector` exist.
+> The work around for now is to place them as manual override in `.pakku` directory, and they won't be updated.
 

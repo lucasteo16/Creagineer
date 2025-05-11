@@ -10,7 +10,7 @@ A modpack focusing on `Create` with a touch of survival and adventurous content.
         - `@nethersdelight` `Nether's Delight` (Nether food)
         - `@ends` `End's Delight` (The end's food)
         - `@endersdelight` `L Ender's Delight` (Cataclysm boss food)
-    - `@thirst` `Thirst was Taken` (thirst)
+    - `@thirst` `Thirst was Taken` (Thirst)
     - `@life` `Life of Spice` (Food diversity)
 - Automation
     - `@create` `Create` (Automation)

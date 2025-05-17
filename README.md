@@ -70,7 +70,7 @@ A modpack focusing on `Create` with a touch of survival and adventurous content.
 - `Tectonic` (Scaled world generation)
 - `Terralith` (Overworld generation)
 - `Incendius` (Nether generation) 
-- `Nullscape` (the end generation)
+- `Nullscape` (The End generation)
 - All `Yung's Structures` (Structures)
 
 <table border="0">
@@ -202,4 +202,29 @@ A modpack focusing on `Create` with a touch of survival and adventurous content.
 
 > Pakku has no support for mixing Neoforge and Fabric mods, but `Sinytra Connector` exist.
 > The work around for now is to place them as manual override in `.pakku` directory, and they won't be updated.
+
+- Adding mod with or without specifing file ID.   
+    File ID is optional and it can be found in cursforge mod's file url or modrinths version's file slug.
+    ```sh
+    pakku add <modname> 
+    pakku add prj --cf <modname>:<file-id> -mr <modname>
+    ```
+
+- Removing mod
+    ```sh
+    pakku remove <modname>
+    ```
+
+- Update modpack metadata
+    ```sh
+    pakku cfg --version 1.0.0
+    ```
+
+- Download remote and resolve into playable installation.
+    ```sh
+    # initlize
+    pakku remote <repository>
+    # update 
+    pakku sync <repository> 
+    ```
 

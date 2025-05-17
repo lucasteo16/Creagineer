@@ -1988,6 +1988,68 @@
             ]
         },
         {
+            "pakku_id": "dWmH7bTpHqdn0cll",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "coolrain",
+                "curseforge": "cool-rain"
+            },
+            "name": {
+                "modrinth": "Cool Rain",
+                "curseforge": "Cool Rain"
+            },
+            "id": {
+                "modrinth": "iDyqnQLT",
+                "curseforge": "1196599"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "coolrain-1.1.0-1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/iDyqnQLT/versions/EEZWHM0B/coolrain-1.1.0-1.21.1-neoforge.jar",
+                    "id": "EEZWHM0B",
+                    "parent_id": "iDyqnQLT",
+                    "hashes": {
+                        "sha512": "272504dea48304a2d7e940e9f45594eb62adbe57cc25215bd0ceb3fb23d467c14e150020a83989a1560d589714175e39438cdc48d4c90563f2bbf4b48b72c773",
+                        "sha1": "e7e59c06677651828af9298c09b27a8f72a4d2a0"
+                    },
+                    "required_dependencies": [],
+                    "size": 3127528,
+                    "date_published": "2025-02-15T15:18:44.017375Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "coolrain-1.1.0-1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6196/244/coolrain-1.1.0-1.21.1-neoforge.jar",
+                    "id": "6196244",
+                    "parent_id": "1196599",
+                    "hashes": {
+                        "sha1": "e7e59c06677651828af9298c09b27a8f72a4d2a0",
+                        "md5": "71621e8d8074833f3105ccbed1463f16"
+                    },
+                    "required_dependencies": [],
+                    "size": 3127528,
+                    "date_published": "2025-02-15T15:21:10.147Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "pN8y3giiOkraN4N9",
             "type": "MOD",
             "side": "BOTH",
@@ -8316,6 +8378,67 @@
                     "required_dependencies": [],
                     "size": 174468,
                     "date_published": "2025-04-22T08:09:41.473Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bK0eXUyuwDnbt2rf",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "pretty-rain",
+                "modrinth": "pretty-rain"
+            },
+            "name": {
+                "curseforge": "Pretty Rain",
+                "modrinth": "Pretty Rain"
+            },
+            "id": {
+                "curseforge": "1163800",
+                "modrinth": "IhZuHxkl"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Pretty Rain-1.21.1-NeoForge-1.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6347/978/Pretty Rain-1.21.1-NeoForge-1.1.4.jar",
+                    "id": "6347978",
+                    "parent_id": "1163800",
+                    "hashes": {
+                        "sha1": "6b2691fab1a40995095814b019cb55cb0f7be610",
+                        "md5": "dc69e594f1ad119a65672a5071984a61"
+                    },
+                    "required_dependencies": [],
+                    "size": 589641,
+                    "date_published": "2025-03-25T20:36:52.663Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Pretty Rain-1.21.1-NeoForge-1.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/IhZuHxkl/versions/CYizuwV6/Pretty Rain-1.21.1-NeoForge-1.1.4.jar",
+                    "id": "CYizuwV6",
+                    "parent_id": "IhZuHxkl",
+                    "hashes": {
+                        "sha512": "686d25d07f6ada4454d37a535d54a6f28efc252142d93e29b699ad7eb54f0499a7b8ba0fb7ee9e809445acd55abb937c646a24551c235b0689a9a4c131428140",
+                        "sha1": "6b2691fab1a40995095814b019cb55cb0f7be610"
+                    },
+                    "required_dependencies": [],
+                    "size": 589641,
+                    "date_published": "2025-03-25T20:46:58.316938Z"
                 }
             ]
         },

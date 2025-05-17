@@ -76,6 +76,82 @@
             ]
         },
         {
+            "pakku_id": "p2nXp4LRizHVbVat",
+            "pakku_links": [
+                "dsjCQTj6PyyVPNsv"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "advancement-screenshot",
+                "modrinth": "advancement-screenshot"
+            },
+            "name": {
+                "curseforge": "Advancement Screenshot",
+                "modrinth": "Advancement Screenshot"
+            },
+            "id": {
+                "curseforge": "414086",
+                "modrinth": "lU8KbfG2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "advancementscreenshot-1.21.1-5.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6186/758/advancementscreenshot-1.21.1-5.0.jar",
+                    "id": "6186758",
+                    "parent_id": "414086",
+                    "hashes": {
+                        "sha1": "79554a35b1839beba5442231621b8b5c0adbc7cf",
+                        "md5": "ac39c4e6c4607a057a22289503f3a802"
+                    },
+                    "required_dependencies": [
+                        "342584"
+                    ],
+                    "size": 41544,
+                    "date_published": "2025-02-12T20:35:19.447Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "advancementscreenshot-1.21.1-5.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lU8KbfG2/versions/sLjjAzIz/advancementscreenshot-1.21.1-5.0.jar",
+                    "id": "sLjjAzIz",
+                    "parent_id": "lU8KbfG2",
+                    "hashes": {
+                        "sha512": "5498a078afe6470baca74a27e98b51d6f1e91dd508694834208816db0444a80bfeef404d98b2db476559307d60a397c0b09bbbbba01cc1d7dabce7c9d2598c8c",
+                        "sha1": "79554a35b1839beba5442231621b8b5c0adbc7cf"
+                    },
+                    "required_dependencies": [
+                        "e0M1UDsY"
+                    ],
+                    "size": 41544,
+                    "date_published": "2025-02-12T20:35:53.359726Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "jmFCSH2d82wIlY1e",
             "pakku_links": [
                 "3XBSGl240SmCOsDB"

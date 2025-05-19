@@ -2926,7 +2926,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "create-dragons-plus-1.5.0.jar",
+                    "file_name": "create-dragons-plus-1.5.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2934,22 +2934,22 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/QAkcIInS/create-dragons-plus-1.5.0.jar",
-                    "id": "QAkcIInS",
+                    "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/4K89HMj0/create-dragons-plus-1.5.1.jar",
+                    "id": "4K89HMj0",
                     "parent_id": "dzb1a5WV",
                     "hashes": {
-                        "sha512": "bb9d980a407b1f4b60877d3c296d701cbc43b07787eb32117fadb226a67963a2f7470f7a8090d92611c13080c7c7c7541638df295d88786e190850d5d2f34372",
-                        "sha1": "e9eb542d34f8c14f0ac400274b8a21a36c046030"
+                        "sha512": "b80f0d28b17a30fca1c97d8123e046fddb9140c4dcd6c39dd12cf69bc082c71270d1cd3e8c6f503bf7effc8a1e8fdf392c620efa803ca2f64688af0daaeeb5db",
+                        "sha1": "786a442e69c8adb7845ebbffae1961ed25975ca0"
                     },
                     "required_dependencies": [
                         "LNytGWDc"
                     ],
-                    "size": 635189,
-                    "date_published": "2025-05-11T05:53:28.698374Z"
+                    "size": 637974,
+                    "date_published": "2025-05-19T07:36:58.440621Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "create-dragons-plus-1.5.0.jar",
+                    "file_name": "create-dragons-plus-1.5.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2957,18 +2957,18 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6518/341/create-dragons-plus-1.5.0.jar",
-                    "id": "6518341",
+                    "url": "https://edge.forgecdn.net/files/6546/358/create-dragons-plus-1.5.1.jar",
+                    "id": "6546358",
                     "parent_id": "1216624",
                     "hashes": {
-                        "sha1": "e9eb542d34f8c14f0ac400274b8a21a36c046030",
-                        "md5": "443d2f8f3f9ca67aecffd4a777d0061d"
+                        "sha1": "786a442e69c8adb7845ebbffae1961ed25975ca0",
+                        "md5": "8e951afd95e488c64ac9f18a5d35021f"
                     },
                     "required_dependencies": [
                         "328085"
                     ],
-                    "size": 635189,
-                    "date_published": "2025-05-11T05:53:23.047Z"
+                    "size": 637974,
+                    "date_published": "2025-05-19T08:23:35.023Z"
                 }
             ]
         },
@@ -3128,31 +3128,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "create_power_loader-2.0.0-mc1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6514/713/create_power_loader-2.0.0-mc1.21.1.jar",
-                    "id": "6514713",
-                    "parent_id": "936020",
-                    "hashes": {
-                        "sha1": "8e911e55089ce0c494976042b5dc1b7ad7804933",
-                        "md5": "f36c0c14481fca6910f56e02bcbec8d4"
-                    },
-                    "required_dependencies": [
-                        "328085"
-                    ],
-                    "size": 403639,
-                    "date_published": "2025-05-10T04:09:34.810Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "create_power_loader-2.0.0-mc1.21.1.jar",
+                    "file_name": "create_power_loader-2.0.2-mc1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -3160,18 +3137,41 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/f5Zi2sZs/create_power_loader-2.0.0-mc1.21.1.jar",
-                    "id": "f5Zi2sZs",
+                    "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/COiCpt2h/create_power_loader-2.0.2-mc1.21.1.jar",
+                    "id": "COiCpt2h",
                     "parent_id": "wPQ6GgFE",
                     "hashes": {
-                        "sha512": "295abd58bf57fbc32cb19288246f661018306849e54289b97eb500cb9a6a6ad960d3ea9fa049ecda71795425cfbf48e5bbc426d42ef3c9bcd7df0b1078e6b2c5",
-                        "sha1": "8e911e55089ce0c494976042b5dc1b7ad7804933"
+                        "sha512": "957c4930562f19511f45384faf9ed47c55a0c5ba60e8e9682625b6d456e54493d6e3eac2f791f4eeabad2c2bd927816a0fdc5e6eda124faaeebab0f1929f0bcc",
+                        "sha1": "40b70a1e58eba75262ab02e32fcd28ca2ab83d50"
                     },
                     "required_dependencies": [
                         "LNytGWDc"
                     ],
-                    "size": 403639,
-                    "date_published": "2025-05-10T04:09:33.132495Z"
+                    "size": 403508,
+                    "date_published": "2025-05-19T14:26:16.746240Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "create_power_loader-2.0.2-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6547/256/create_power_loader-2.0.2-mc1.21.1.jar",
+                    "id": "6547256",
+                    "parent_id": "936020",
+                    "hashes": {
+                        "sha1": "40b70a1e58eba75262ab02e32fcd28ca2ab83d50",
+                        "md5": "e5df1a01124563e42052b010b4ec4886"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 403508,
+                    "date_published": "2025-05-19T14:26:18.713Z"
                 }
             ]
         },
@@ -9551,15 +9551,15 @@
                         "sha1": "6bb03e99ffd08e69e670c4eecab9551c770788b5"
                     },
                     "required_dependencies": [
-                        "IYY9Siz8",
-                        "lhGA9TYQ"
+                        "lhGA9TYQ",
+                        "IYY9Siz8"
                     ],
                     "size": 103793,
                     "date_published": "2025-05-18T19:04:09.883173Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "sort_it_out-neoforge-1.1.1+1.21.1.jar",
+                    "file_name": "sort_it_out-neoforge-1.1.2+1.21.1.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -9568,19 +9568,19 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6422/142/sort_it_out-neoforge-1.1.1+1.21.1.jar",
-                    "id": "6422142",
+                    "url": "https://edge.forgecdn.net/files/6544/532/sort_it_out-neoforge-1.1.2+1.21.1.jar",
+                    "id": "6544532",
                     "parent_id": "1215281",
                     "hashes": {
-                        "sha1": "8e9ee06ed176b34ce43969fbb7fc5df7c4f7bfa5",
-                        "md5": "a0506df80d2478e82e1442ec50656571"
+                        "sha1": "6bb03e99ffd08e69e670c4eecab9551c770788b5",
+                        "md5": "e79214c42b959f607e3d5ea8abc0d916"
                     },
                     "required_dependencies": [
-                        "419699",
-                        "623764"
+                        "623764",
+                        "419699"
                     ],
-                    "size": 103776,
-                    "date_published": "2025-04-14T13:20:04.497Z"
+                    "size": 103793,
+                    "date_published": "2025-05-18T19:04:08.137Z"
                 }
             ]
         },

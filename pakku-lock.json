@@ -1612,6 +1612,69 @@
             ]
         },
         {
+            "pakku_id": "vxYaIeow3NHLidWS",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "comforts",
+                "modrinth": "comforts"
+            },
+            "name": {
+                "curseforge": "Comforts (Fabric/Forge/Quilt)",
+                "modrinth": "Comforts"
+            },
+            "id": {
+                "curseforge": "276951",
+                "modrinth": "SaCpeal4"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "comforts-neoforge-9.0.4+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6559/909/comforts-neoforge-9.0.4+1.21.1.jar",
+                    "id": "6559909",
+                    "parent_id": "276951",
+                    "hashes": {
+                        "sha1": "3170b2e32cf60df49e7e8ff13bc0b64315170197",
+                        "md5": "b8352fcc4f2479a60c83f0c21e706b83"
+                    },
+                    "required_dependencies": [],
+                    "size": 422519,
+                    "date_published": "2025-05-23T23:36:10.387Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "comforts-neoforge-9.0.4+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/SaCpeal4/versions/f0FgfKAZ/comforts-neoforge-9.0.4+1.21.1.jar",
+                    "id": "f0FgfKAZ",
+                    "parent_id": "SaCpeal4",
+                    "hashes": {
+                        "sha512": "c1fcb536f1a311876c09c9b42b43f599115bcd14bbbbc22d56c5ba8ec72f9e32d84661f0f2f1abbfa19d085f3798ce471b3d89e396f1656a2c57edf2ec8cc3dd",
+                        "sha1": "3170b2e32cf60df49e7e8ff13bc0b64315170197"
+                    },
+                    "required_dependencies": [],
+                    "size": 422519,
+                    "date_published": "2025-05-23T23:36:09.260297Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "qSmZqGWvaOHScn0U",
             "pakku_links": [
                 "M02Oz50gxfmS0Dgw",
@@ -2771,6 +2834,74 @@
             ]
         },
         {
+            "pakku_id": "1qemNmgUQAaeMrvJ",
+            "pakku_links": [
+                "80Yw9jX2V6HGMKTe"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "copycats",
+                "modrinth": "copycats"
+            },
+            "name": {
+                "curseforge": "Create: Copycats+",
+                "modrinth": "Create: Copycats+"
+            },
+            "id": {
+                "curseforge": "968398",
+                "modrinth": "UT2M39wf"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "copycats-3.0.1+mc.1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6601/966/copycats-3.0.1+mc.1.21.1-neoforge.jar",
+                    "id": "6601966",
+                    "parent_id": "968398",
+                    "hashes": {
+                        "sha1": "6b55fd8d430af1acdb6f5b55e9a34c27552b712d",
+                        "md5": "4ea6927cfed374a8dfa9400c3f82791f"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 1785616,
+                    "date_published": "2025-05-31T15:21:13.140Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "copycats-3.0.1+mc.1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/yJiPTmhu/copycats-3.0.1+mc.1.21.1-neoforge.jar",
+                    "id": "yJiPTmhu",
+                    "parent_id": "UT2M39wf",
+                    "hashes": {
+                        "sha512": "606331b3c6c3fc4b3c685b2a20046132c2cd59a3c958d4fd0d0d93126251718f57022210217e8aa479317b03487540436a7aaed36c2b0fb82f8f42c2803613fd",
+                        "sha1": "6b55fd8d430af1acdb6f5b55e9a34c27552b712d"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 1785616,
+                    "date_published": "2025-05-31T15:21:13.756732Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "v8Pda6ZZ6AJ6C4U6",
             "pakku_links": [
                 "80Yw9jX2V6HGMKTe",
@@ -2914,6 +3045,77 @@
             ]
         },
         {
+            "pakku_id": "dTxyMTtmqkOHSIQw",
+            "pakku_links": [
+                "80Yw9jX2V6HGMKTe"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-design-n-decor",
+                "modrinth": "create-design-n-decor"
+            },
+            "name": {
+                "curseforge": "Create: Design n' Decor",
+                "modrinth": "Create: Design n' Decor"
+            },
+            "id": {
+                "curseforge": "923238",
+                "modrinth": "x49wilh8"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Design-n-Decor-1.21.1-2.0.2.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6598/795/Design-n-Decor-1.21.1-2.0.2.jar",
+                    "id": "6598795",
+                    "parent_id": "923238",
+                    "hashes": {
+                        "sha1": "4d9b15c2395868c93a214281ced82e21b74f46ef",
+                        "md5": "8c42736ec9498b048b113b01d080e693"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 3336512,
+                    "date_published": "2025-05-30T16:23:39.723Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Design-n-Decor-1.21.1-2.0.2.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/x49wilh8/versions/uJVdwDMZ/Design-n-Decor-1.21.1-2.0.2.jar",
+                    "id": "uJVdwDMZ",
+                    "parent_id": "x49wilh8",
+                    "hashes": {
+                        "sha512": "c11acffdc8153502eb91d72c0fa4a9f461c9b328d178f939d75682e91560a6f53f74c638570e2b59a08b135193a345da6885ddf3d9d138f9e501c183c797718d",
+                        "sha1": "4d9b15c2395868c93a214281ced82e21b74f46ef"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 3336512,
+                    "date_published": "2025-05-30T16:23:52.664464Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "lqYPhU2S0AU800RG",
             "pakku_links": [
                 "80Yw9jX2V6HGMKTe"
@@ -3046,6 +3248,149 @@
                     ],
                     "size": 645133,
                     "date_published": "2025-05-20T03:07:55.133Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hXUVeCtXlJTu0sV0",
+            "pakku_links": [
+                "szcNq2wzRNZVK5K1",
+                "s3aMuDShynjj9rvO",
+                "80Yw9jX2V6HGMKTe"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-food",
+                "modrinth": "create-food"
+            },
+            "name": {
+                "curseforge": "Create: Food",
+                "modrinth": "Create: Food"
+            },
+            "id": {
+                "curseforge": "959439",
+                "modrinth": "4HnO3el1"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "createfood-neoforge-1.21.1-2.0.0-beta-2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6607/0/createfood-neoforge-1.21.1-2.0.0-beta-2.jar",
+                    "id": "6607000",
+                    "parent_id": "959439",
+                    "hashes": {
+                        "sha1": "7a3bd48560a9e64a738a612f145680ed51667016",
+                        "md5": "29a8c491ea44110d2b1a5a28dfe34ef6"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "993166",
+                        "398521",
+                        "306612",
+                        "328085"
+                    ],
+                    "size": 6963369,
+                    "date_published": "2025-06-02T04:30:51.237Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "createfood-neoforge-1.21.1-2.0.0-beta-2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/Yi94q3cX/createfood-neoforge-1.21.1-2.0.0-beta-2.jar",
+                    "id": "Yi94q3cX",
+                    "parent_id": "4HnO3el1",
+                    "hashes": {
+                        "sha512": "a654f1b175c37cc860307deefa07f22d331497514f9aed835b42e56495632bad781f6ab231237a577677680310d13076632f5cb1d7b7893bd6c1ed2a1c0ca5ce",
+                        "sha1": "ae9ef7a85aa2090724ec205ac31f1e0648ebccb0"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc",
+                        "R2OftAxM"
+                    ],
+                    "size": 6963368,
+                    "date_published": "2025-06-02T04:09:22.881616Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hVAhlYemmvBYvAX1",
+            "pakku_links": [
+                "s3aMuDShynjj9rvO"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-integrated-farming",
+                "modrinth": "create-integrated-farming"
+            },
+            "name": {
+                "curseforge": "Create: Integrated Farming",
+                "modrinth": "Create: Integrated Farming"
+            },
+            "id": {
+                "curseforge": "1249131",
+                "modrinth": "9k1pAsfR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create-integrated-farming-1.0.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6524/147/create-integrated-farming-1.0.5.jar",
+                    "id": "6524147",
+                    "parent_id": "1249131",
+                    "hashes": {
+                        "sha1": "320e4f0f1b320138577c6aa0c9551c4c7a7bc32f",
+                        "md5": "defbed541f3e7b5fdce0618df9591638"
+                    },
+                    "required_dependencies": [
+                        "398521"
+                    ],
+                    "size": 270603,
+                    "date_published": "2025-05-12T23:35:18.447Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "create-integrated-farming-1.0.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/9k1pAsfR/versions/yH2JiZYg/create-integrated-farming-1.0.5.jar",
+                    "id": "yH2JiZYg",
+                    "parent_id": "9k1pAsfR",
+                    "hashes": {
+                        "sha512": "5ed861571c59029b071d5fce64d278b242b5e1b0f3158774b557c44d9032eb3a87fc1236e69174d9c45b9ed39fa757f5c229407ae153b802c7a76ab76079c494",
+                        "sha1": "320e4f0f1b320138577c6aa0c9551c4c7a7bc32f"
+                    },
+                    "required_dependencies": [
+                        "R2OftAxM"
+                    ],
+                    "size": 270603,
+                    "date_published": "2025-05-12T23:35:19.357575Z"
                 }
             ]
         },

@@ -5203,6 +5203,76 @@
             ]
         },
         {
+            "pakku_id": "kb2plxq5c9ZxdHRc",
+            "pakku_links": [
+                "zyGW5mEkVjZzmcms"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "elytra-trims",
+                "modrinth": "elytra-trims"
+            },
+            "name": {
+                "curseforge": "Elytra Trims",
+                "modrinth": "Elytra Trims"
+            },
+            "id": {
+                "curseforge": "876199",
+                "modrinth": "XpzGz7KD"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "elytratrims-neoforge-3.5.9+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6563/745/elytratrims-neoforge-3.5.9+1.21.1.jar",
+                    "id": "6563745",
+                    "parent_id": "876199",
+                    "hashes": {
+                        "sha1": "d81db3a194c9924de5ae3d12674136d93b118422",
+                        "md5": "0b6a8ba50fcfd4d6bab13085888a0868"
+                    },
+                    "required_dependencies": [
+                        "351264"
+                    ],
+                    "size": 603224,
+                    "date_published": "2025-05-25T08:10:05.453Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "elytratrims-neoforge-3.5.9+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/JXUICBYm/elytratrims-neoforge-3.5.9+1.21.1.jar",
+                    "id": "JXUICBYm",
+                    "parent_id": "XpzGz7KD",
+                    "hashes": {
+                        "sha512": "e0e7c271333d3fa3d0699099d4d0b2f09f2cee268b5a7d93fee4dda743c88ccc2bf3a179e9f0c6a1beee338ec7b250c248104f39b84f72f9e8358061e8a858bb",
+                        "sha1": "d81db3a194c9924de5ae3d12674136d93b118422"
+                    },
+                    "required_dependencies": [
+                        "ordsPcFz"
+                    ],
+                    "size": 603224,
+                    "date_published": "2025-05-25T08:10:07.830230Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DZr6TUPDKgeJcJBa",
             "type": "RESOURCE_PACK",
             "side": "CLIENT",
@@ -6264,6 +6334,77 @@
             ]
         },
         {
+            "pakku_id": "dNUnGCBxm6VuHVV1",
+            "pakku_links": [
+                "COzZDH4wd5wLgGdY",
+                "R8aNtVar4AzdeH7c"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "friends-and-foes-forge",
+                "modrinth": "friends-and-foes-forge"
+            },
+            "name": {
+                "curseforge": "Friends&Foes (Forge/NeoForge)",
+                "modrinth": "Friends&Foes (Forge/NeoForge)"
+            },
+            "id": {
+                "curseforge": "602059",
+                "modrinth": "BOCJKD49"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "friendsandfoes-neoforge-4.0.5+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6520/696/friendsandfoes-neoforge-4.0.5+mc1.21.1.jar",
+                    "id": "6520696",
+                    "parent_id": "602059",
+                    "hashes": {
+                        "sha1": "e6776b8005d29e9fbd8c46364390f0b66af28798",
+                        "md5": "7708f2739252cb038b33d69e25a93541"
+                    },
+                    "required_dependencies": [
+                        "667299",
+                        "570073"
+                    ],
+                    "size": 4762735,
+                    "date_published": "2025-05-11T20:45:20.633Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "friendsandfoes-neoforge-4.0.5+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/BOCJKD49/versions/GrssH563/friendsandfoes-neoforge-4.0.5+mc1.21.1.jar",
+                    "id": "GrssH563",
+                    "parent_id": "BOCJKD49",
+                    "hashes": {
+                        "sha512": "cdff138cede33bd54720c33e1c0c9a6360a41897c1432b3896f5fd1bd3d8226f347692bc87a081a18c90d6e8e6ebac20291dafbf9fc0fea1c301cc326fc51759",
+                        "sha1": "e6776b8005d29e9fbd8c46364390f0b66af28798"
+                    },
+                    "required_dependencies": [
+                        "G1hIVOrD",
+                        "1eAoo2KR"
+                    ],
+                    "size": 4762735,
+                    "date_published": "2025-05-11T20:45:23.640302Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8OYe94htW1Wz7GYe",
             "pakku_links": [
                 "zyGW5mEkVjZzmcms"
@@ -7292,6 +7433,69 @@
                     "required_dependencies": [],
                     "size": 3475581,
                     "date_published": "2025-05-20T14:22:44.030Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "e7TPVlTcLE9CUBbA",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "justenoughbreeding",
+                "modrinth": "justenoughbreeding"
+            },
+            "name": {
+                "curseforge": "Just Enough Breeding (JEBr)",
+                "modrinth": "Just Enough Breeding (JEBr)"
+            },
+            "id": {
+                "curseforge": "899386",
+                "modrinth": "9Pk89J3g"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "justenoughbreeding-neoforge-1.21-1.21.1-1.6.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6489/928/justenoughbreeding-neoforge-1.21-1.21.1-1.6.0.jar",
+                    "id": "6489928",
+                    "parent_id": "899386",
+                    "hashes": {
+                        "sha1": "e3ab520843c6a70f49688e411dc601630fa15c9e",
+                        "md5": "5c9fd5e7e4428cc3e579878294f871e5"
+                    },
+                    "required_dependencies": [],
+                    "size": 136883,
+                    "date_published": "2025-05-03T04:47:23.627Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "justenoughbreeding-neoforge-1.21-1.21.1-1.6.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9Pk89J3g/versions/N3UdVCxT/justenoughbreeding-neoforge-1.21-1.21.1-1.6.0.jar",
+                    "id": "N3UdVCxT",
+                    "parent_id": "9Pk89J3g",
+                    "hashes": {
+                        "sha512": "81c708eec31e42478a4f50b0eb7a3e4932fac0ec3df7a70e7bca65746697704a3b7f6a3d19a6c21f2c8685e0aa3fb085a9fc260877cace5337a7fc1161c0dd78",
+                        "sha1": "e3ab520843c6a70f49688e411dc601630fa15c9e"
+                    },
+                    "required_dependencies": [],
+                    "size": 136883,
+                    "date_published": "2025-05-03T04:48:30.736451Z"
                 }
             ]
         },
@@ -8398,6 +8602,69 @@
                     "required_dependencies": [],
                     "size": 216873,
                     "date_published": "2024-12-29T18:46:17.672305Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "KIllzykczjj1sSjx",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "neruina",
+                "modrinth": "neruina"
+            },
+            "name": {
+                "curseforge": "Neruina - Ticking Entity Fixer",
+                "modrinth": "Neruina - Ticking Entity Fixer"
+            },
+            "id": {
+                "curseforge": "851046",
+                "modrinth": "1s5x833P"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Neruina-2.3.1-beta.1-neoforge+1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6489/36/Neruina-2.3.1-beta.1-neoforge+1.21.jar",
+                    "id": "6489036",
+                    "parent_id": "851046",
+                    "hashes": {
+                        "sha1": "be3f9cea2bf3251f42b595ad2a8b19c0b5b169f9",
+                        "md5": "607ddacb8cc4ccbef40958a9e6c699ca"
+                    },
+                    "required_dependencies": [],
+                    "size": 4517624,
+                    "date_published": "2025-05-02T22:01:02.100Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Neruina-2.3.1-beta.1-neoforge+1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/1s5x833P/versions/FG1tIsmk/Neruina-2.3.1-beta.1-neoforge+1.21.jar",
+                    "id": "FG1tIsmk",
+                    "parent_id": "1s5x833P",
+                    "hashes": {
+                        "sha512": "19449716abf7873b45d93b611173af5dbee6a6216311fa41fdd55c922b04cae5b21d805c3f290608cd45c8a8073aa87c90999bfbf96f944b22875127e2838451",
+                        "sha1": "be3f9cea2bf3251f42b595ad2a8b19c0b5b169f9"
+                    },
+                    "required_dependencies": [],
+                    "size": 4517624,
+                    "date_published": "2025-05-02T22:01:02.352193Z"
                 }
             ]
         },
@@ -9736,6 +10003,69 @@
                     "required_dependencies": [],
                     "size": 482516,
                     "date_published": "2025-03-27T17:07:38.821336Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "PLuOkO9XBlPmGuEh",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "smithing-template-viewer",
+                "modrinth": "smithing-template-viewer"
+            },
+            "name": {
+                "curseforge": "Smithing Template Viewer for JEI/EMI",
+                "modrinth": "Smithing Template Viewer"
+            },
+            "id": {
+                "curseforge": "1133580",
+                "modrinth": "oJsYTCP3"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "smithingtemplateviewer-1.0.3.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6502/654/smithingtemplateviewer-1.0.3.jar",
+                    "id": "6502654",
+                    "parent_id": "1133580",
+                    "hashes": {
+                        "sha1": "1ee2fa37e522b645f7b17ed28062e58aac908ae8",
+                        "md5": "a97f2b0ef880a37cfb55dcfbbaeb392c"
+                    },
+                    "required_dependencies": [],
+                    "size": 39663,
+                    "date_published": "2025-05-06T16:33:59.750Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "smithingtemplateviewer-1.0.3.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/oJsYTCP3/versions/50hp2wB9/smithingtemplateviewer-1.0.3.jar",
+                    "id": "50hp2wB9",
+                    "parent_id": "oJsYTCP3",
+                    "hashes": {
+                        "sha512": "701ddacf511162283f2f5ad18893f2dc848269921a027f55905fc748eda32711939212694071d6b35dec026eccad6a68e8ec704ec7cab26491ff6b93c2014686",
+                        "sha1": "1ee2fa37e522b645f7b17ed28062e58aac908ae8"
+                    },
+                    "required_dependencies": [],
+                    "size": 39663,
+                    "date_published": "2025-05-06T16:34:01.396076Z"
                 }
             ]
         },

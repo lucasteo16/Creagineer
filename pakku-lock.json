@@ -529,6 +529,42 @@
             ]
         },
         {
+            "pakku_id": "SdErma2MrFBi8bS3",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "baguettelib"
+            },
+            "name": {
+                "curseforge": "BaguetteLib"
+            },
+            "id": {
+                "curseforge": "1264423"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "baguettelib-1.21.1-NeoForge-1.0.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6523/363/baguettelib-1.21.1-NeoForge-1.0.0.jar",
+                    "id": "6523363",
+                    "parent_id": "1264423",
+                    "hashes": {
+                        "sha1": "f052892e383dc2f3f22942c74485454311fee898",
+                        "md5": "f2f17f2d55eea8532f978c45644ad5cf"
+                    },
+                    "required_dependencies": [],
+                    "size": 24840,
+                    "date_published": "2025-05-12T19:18:38.783Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "lo8t6jytXptlUuZB",
             "type": "MOD",
             "side": "BOTH",
@@ -2375,43 +2411,23 @@
             ]
         },
         {
-            "pakku_id": "2N4545evBKBW38Mh",
+            "pakku_id": "GGOR2aamqefDbP78",
+            "pakku_links": [
+                "SdErma2MrFBi8bS3",
+                "CdCwndQnqPLNw7eN",
+                "yBp8HKz2QNAWcLFS"
+            ],
             "type": "MOD",
-            "side": "SERVER",
             "slug": {
-                "curseforge": "corpse-x-curios-api-compat",
-                "modrinth": "corpse-x-curios-api-compat"
+                "curseforge": "corpse-x-curios-api-compat"
             },
             "name": {
-                "curseforge": "Corpse x Curios API Compat",
-                "modrinth": "Corpse x Curios API Compat"
+                "curseforge": "Corpse x Curios API Compat"
             },
             "id": {
-                "curseforge": "1138130",
-                "modrinth": "pJGcKPh1"
+                "curseforge": "1138130"
             },
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "corpsecurioscompat-1.21.1-NeoForge-2.2.2.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pJGcKPh1/versions/dMckkU0h/corpsecurioscompat-1.21.1-NeoForge-2.2.2.jar",
-                    "id": "dMckkU0h",
-                    "parent_id": "pJGcKPh1",
-                    "hashes": {
-                        "sha512": "43ef2fa1e2893fb3d9147d876f8bc86d925d75cf074a08812c7a466d88fefd7a9781923d398ef0d24f8162f61b1dbef291bc6246ae618a026ceb399da2ca1397",
-                        "sha1": "624995bf7f2c502f9c454c19665a6a6e20f86c72"
-                    },
-                    "required_dependencies": [],
-                    "size": 8276,
-                    "date_published": "2025-03-22T08:58:22.417237Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "gravestonecurioscompat-1.21.1-NeoForge-3.0.2.jar",
@@ -3837,82 +3853,6 @@
             ]
         },
         {
-            "pakku_id": "KIYHTkP0YiN1uVEW",
-            "pakku_links": [
-                "m8q0jamMZKFBFwTb",
-                "R8aNtVar4AzdeH7c",
-                "dgcqrJqI4lBNk3ak"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "creeper-overhaul",
-                "modrinth": "creeper-overhaul"
-            },
-            "name": {
-                "curseforge": "Creeper Overhaul",
-                "modrinth": "Creeper Overhaul"
-            },
-            "id": {
-                "curseforge": "561625",
-                "modrinth": "MI1LWe93"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6051/279/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
-                    "id": "6051279",
-                    "parent_id": "561625",
-                    "hashes": {
-                        "sha1": "5a07cc032df790e7d110ad3dedb7a76253ffd565",
-                        "md5": "fba4de114511671aa0c4a10f34268faa"
-                    },
-                    "required_dependencies": [
-                        "388172",
-                        "570073",
-                        "714059"
-                    ],
-                    "size": 1185088,
-                    "date_published": "2025-01-04T03:31:59.233Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/MI1LWe93/versions/HNrAYCLH/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
-                    "id": "HNrAYCLH",
-                    "parent_id": "MI1LWe93",
-                    "hashes": {
-                        "sha512": "880ca9d8d23b527d3583cbe7fa399b2a26421b6ccba1deacd666cf9b61f4af4378157f404ab3789a7ae9c3c8693e2b7f6c8c532e703e5bb0e1881b9cc2879a6e",
-                        "sha1": "5a07cc032df790e7d110ad3dedb7a76253ffd565"
-                    },
-                    "required_dependencies": [
-                        "M1953qlQ",
-                        "G1hIVOrD",
-                        "8BmcQJ2H"
-                    ],
-                    "size": 1185088,
-                    "date_published": "2025-01-04T03:31:11.740412Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "vuCEzY4bvaIAlAHD",
             "type": "RESOURCE_PACK",
             "side": "CLIENT",
@@ -4373,6 +4313,81 @@
                     "required_dependencies": [],
                     "size": 17886030,
                     "date_published": "2025-04-25T14:25:24.973Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "GgbkCEQvW12DhLlX",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "disconnect-packet-fix",
+                "modrinth": "disconnect-packet-fix"
+            },
+            "name": {
+                "curseforge": "Disconnect Packet Fix",
+                "modrinth": "Disconnect Packet Fix"
+            },
+            "id": {
+                "curseforge": "1173964",
+                "modrinth": "rd9rKuJT"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "disconnect-packet-fix-neoforge-2.0.1.jar",
+                    "mc_versions": [
+                        "1.21.2-Snapshot",
+                        "1.21",
+                        "1.21.5",
+                        "1.21.1-Snapshot",
+                        "1.21.4",
+                        "1.21-Snapshot",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.4-Snapshot",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6064/142/disconnect-packet-fix-neoforge-2.0.1.jar",
+                    "id": "6064142",
+                    "parent_id": "1173964",
+                    "hashes": {
+                        "sha1": "3b80e1d4be245787eecf811ff87a2afffbedc886",
+                        "md5": "a03d8fe52660976d2885af738fc082b7"
+                    },
+                    "required_dependencies": [],
+                    "size": 8231,
+                    "date_published": "2025-01-07T23:49:27.573Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "disconnect-packet-fix-neoforge-2.0.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/rd9rKuJT/versions/yjTKEIL5/disconnect-packet-fix-neoforge-2.0.1.jar",
+                    "id": "yjTKEIL5",
+                    "parent_id": "rd9rKuJT",
+                    "hashes": {
+                        "sha512": "1e67928a4a55a5421861457383fab699a4393e099d3c9395feeba1fa9d99a41ceebcf67cf7f87e9032eb00fc2a8df76990b07b02ee25ed894e4e98b8d1656004",
+                        "sha1": "3b80e1d4be245787eecf811ff87a2afffbedc886"
+                    },
+                    "required_dependencies": [],
+                    "size": 8231,
+                    "date_published": "2024-11-25T19:57:04.949586Z"
                 }
             ]
         },
@@ -10914,6 +10929,69 @@
                     "required_dependencies": [],
                     "size": 18957,
                     "date_published": "2024-08-19T20:58:15.430478Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "icqL8YRek1yBsh2o",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "trimseffects",
+                "modrinth": "trimseffects"
+            },
+            "name": {
+                "curseforge": "TrimsEffects - 2.1 NOW AVAILABLE!",
+                "modrinth": "TrimsEffects"
+            },
+            "id": {
+                "curseforge": "870275",
+                "modrinth": "BL7ADJ7w"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "trimeffects-neoforge-mc1.21-2.1.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6159/954/trimeffects-neoforge-mc1.21-2.1.1.jar",
+                    "id": "6159954",
+                    "parent_id": "870275",
+                    "hashes": {
+                        "sha1": "f8ba2b1d2e895f73fb53524666c9d672b5c88cc6",
+                        "md5": "a4fc7fb4505b0efd2ebe640245385be9"
+                    },
+                    "required_dependencies": [],
+                    "size": 41015,
+                    "date_published": "2025-02-05T09:05:35.553Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "trimeffects-neoforge-mc1.21-2.1.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/BL7ADJ7w/versions/bEjVixg6/trimeffects-neoforge-mc1.21-2.1.1.jar",
+                    "id": "bEjVixg6",
+                    "parent_id": "BL7ADJ7w",
+                    "hashes": {
+                        "sha512": "83cfddbee082288bf008e71daeca2846d1d806d16101e0229476096fa4105d84493dd885036b0faeaee49b08fcb0e4eeecf048dacb7fe51a2d503eadb8e707bc",
+                        "sha1": "f8ba2b1d2e895f73fb53524666c9d672b5c88cc6"
+                    },
+                    "required_dependencies": [],
+                    "size": 41015,
+                    "date_published": "2025-02-05T09:10:38.127322Z"
                 }
             ]
         },

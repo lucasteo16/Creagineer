@@ -10933,6 +10933,69 @@
             ]
         },
         {
+            "pakku_id": "icqL8YRek1yBsh2o",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "trimseffects",
+                "modrinth": "trimseffects"
+            },
+            "name": {
+                "curseforge": "TrimsEffects - 2.1 NOW AVAILABLE!",
+                "modrinth": "TrimsEffects"
+            },
+            "id": {
+                "curseforge": "870275",
+                "modrinth": "BL7ADJ7w"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "trimeffects-neoforge-mc1.21-2.1.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6159/954/trimeffects-neoforge-mc1.21-2.1.1.jar",
+                    "id": "6159954",
+                    "parent_id": "870275",
+                    "hashes": {
+                        "sha1": "f8ba2b1d2e895f73fb53524666c9d672b5c88cc6",
+                        "md5": "a4fc7fb4505b0efd2ebe640245385be9"
+                    },
+                    "required_dependencies": [],
+                    "size": 41015,
+                    "date_published": "2025-02-05T09:05:35.553Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "trimeffects-neoforge-mc1.21-2.1.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/BL7ADJ7w/versions/bEjVixg6/trimeffects-neoforge-mc1.21-2.1.1.jar",
+                    "id": "bEjVixg6",
+                    "parent_id": "BL7ADJ7w",
+                    "hashes": {
+                        "sha512": "83cfddbee082288bf008e71daeca2846d1d806d16101e0229476096fa4105d84493dd885036b0faeaee49b08fcb0e4eeecf048dacb7fe51a2d503eadb8e707bc",
+                        "sha1": "f8ba2b1d2e895f73fb53524666c9d672b5c88cc6"
+                    },
+                    "required_dependencies": [],
+                    "size": 41015,
+                    "date_published": "2025-02-05T09:10:38.127322Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LJG4mJByHAXDDj3g",
             "type": "MOD",
             "side": "BOTH",

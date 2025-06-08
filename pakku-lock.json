@@ -529,6 +529,42 @@
             ]
         },
         {
+            "pakku_id": "SdErma2MrFBi8bS3",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "baguettelib"
+            },
+            "name": {
+                "curseforge": "BaguetteLib"
+            },
+            "id": {
+                "curseforge": "1264423"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "baguettelib-1.21.1-NeoForge-1.0.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6523/363/baguettelib-1.21.1-NeoForge-1.0.0.jar",
+                    "id": "6523363",
+                    "parent_id": "1264423",
+                    "hashes": {
+                        "sha1": "f052892e383dc2f3f22942c74485454311fee898",
+                        "md5": "f2f17f2d55eea8532f978c45644ad5cf"
+                    },
+                    "required_dependencies": [],
+                    "size": 24840,
+                    "date_published": "2025-05-12T19:18:38.783Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "lo8t6jytXptlUuZB",
             "type": "MOD",
             "side": "BOTH",
@@ -2375,43 +2411,23 @@
             ]
         },
         {
-            "pakku_id": "2N4545evBKBW38Mh",
+            "pakku_id": "GGOR2aamqefDbP78",
+            "pakku_links": [
+                "SdErma2MrFBi8bS3",
+                "CdCwndQnqPLNw7eN",
+                "yBp8HKz2QNAWcLFS"
+            ],
             "type": "MOD",
-            "side": "SERVER",
             "slug": {
-                "curseforge": "corpse-x-curios-api-compat",
-                "modrinth": "corpse-x-curios-api-compat"
+                "curseforge": "corpse-x-curios-api-compat"
             },
             "name": {
-                "curseforge": "Corpse x Curios API Compat",
-                "modrinth": "Corpse x Curios API Compat"
+                "curseforge": "Corpse x Curios API Compat"
             },
             "id": {
-                "curseforge": "1138130",
-                "modrinth": "pJGcKPh1"
+                "curseforge": "1138130"
             },
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "corpsecurioscompat-1.21.1-NeoForge-2.2.2.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pJGcKPh1/versions/dMckkU0h/corpsecurioscompat-1.21.1-NeoForge-2.2.2.jar",
-                    "id": "dMckkU0h",
-                    "parent_id": "pJGcKPh1",
-                    "hashes": {
-                        "sha512": "43ef2fa1e2893fb3d9147d876f8bc86d925d75cf074a08812c7a466d88fefd7a9781923d398ef0d24f8162f61b1dbef291bc6246ae618a026ceb399da2ca1397",
-                        "sha1": "624995bf7f2c502f9c454c19665a6a6e20f86c72"
-                    },
-                    "required_dependencies": [],
-                    "size": 8276,
-                    "date_published": "2025-03-22T08:58:22.417237Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "gravestonecurioscompat-1.21.1-NeoForge-3.0.2.jar",

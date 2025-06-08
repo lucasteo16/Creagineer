@@ -2629,6 +2629,77 @@
             ]
         },
         {
+            "pakku_id": "YJqVavZ3CMyEIldS",
+            "pakku_links": [
+                "zyGW5mEkVjZzmcms",
+                "80Yw9jX2V6HGMKTe"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-jetpack",
+                "modrinth": "create-jetpack"
+            },
+            "name": {
+                "curseforge": "Create Jetpack",
+                "modrinth": "Create Jetpack"
+            },
+            "id": {
+                "curseforge": "655608",
+                "modrinth": "UbFnAd4l"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_jetpack-forge-5.1.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6606/247/create_jetpack-forge-5.1.0.jar",
+                    "id": "6606247",
+                    "parent_id": "655608",
+                    "hashes": {
+                        "sha1": "f48d5e7a3779b9b8dce22c32f14eb7a37389cb7c",
+                        "md5": "617082e7c46ca0b6782a36e8f1b9721c"
+                    },
+                    "required_dependencies": [
+                        "351264",
+                        "328085"
+                    ],
+                    "size": 2180134,
+                    "date_published": "2025-06-01T19:55:31.920Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "create_jetpack-forge-5.1.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/q2a0Gjov/create_jetpack-forge-5.1.0.jar",
+                    "id": "q2a0Gjov",
+                    "parent_id": "UbFnAd4l",
+                    "hashes": {
+                        "sha512": "36c4b9e34a3a4c84fd0f871eea7717c74a2bb674c5afd39d69d0b061f00ba9882573ac913b6522455dbbb44aff1d2e2ae498ea459f20b89240c35cc17cde332d",
+                        "sha1": "f48d5e7a3779b9b8dce22c32f14eb7a37389cb7c"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc",
+                        "ordsPcFz"
+                    ],
+                    "size": 2180134,
+                    "date_published": "2025-06-01T19:55:36.834445Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "QfmiP6foEzdfoWvc",
             "pakku_links": [
                 "80Yw9jX2V6HGMKTe",
@@ -2830,6 +2901,74 @@
                     ],
                     "size": 240455,
                     "date_published": "2025-05-22T02:18:17.640Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "owMwp3Fsod0sCF3g",
+            "pakku_links": [
+                "80Yw9jX2V6HGMKTe"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-connected",
+                "modrinth": "create-connected"
+            },
+            "name": {
+                "curseforge": "Create: Connected",
+                "modrinth": "Create: Connected"
+            },
+            "id": {
+                "curseforge": "947914",
+                "modrinth": "Vg5TIO6d"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_connected-1.1.3-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6600/74/create_connected-1.1.3-mc1.21.1.jar",
+                    "id": "6600074",
+                    "parent_id": "947914",
+                    "hashes": {
+                        "sha1": "5c7c59ba6ac31bb46398dae6f3dab77fc633d377",
+                        "md5": "9d22e1894ec471b3768fd0fdc458581d"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 6550638,
+                    "date_published": "2025-05-31T02:38:37.473Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "create_connected-1.1.3-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/FkB2K56I/create_connected-1.1.3-mc1.21.1.jar",
+                    "id": "FkB2K56I",
+                    "parent_id": "Vg5TIO6d",
+                    "hashes": {
+                        "sha512": "7901336d2122496e2e43b223259f4894c100858f921d1f7830c455e8a5a813d68675ac629a17ea1f64a3bd1a0ec58e912b820237688981460d525a90ae9671da",
+                        "sha1": "5c7c59ba6ac31bb46398dae6f3dab77fc633d377"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 6550638,
+                    "date_published": "2025-05-31T02:38:36.674654Z"
                 }
             ]
         },
@@ -3391,6 +3530,74 @@
                     ],
                     "size": 270603,
                     "date_published": "2025-05-12T23:35:19.357575Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Gn74fqP9JhNVKED6",
+            "pakku_links": [
+                "80Yw9jX2V6HGMKTe"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-mobile-packages",
+                "modrinth": "create-mobile-packages"
+            },
+            "name": {
+                "curseforge": "Create: Mobile Packages",
+                "modrinth": "Create: Mobile Packages"
+            },
+            "id": {
+                "curseforge": "1232978",
+                "modrinth": "1vXRfEHZ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_mobile_packages-1.21.1-0.5.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6614/964/create_mobile_packages-1.21.1-0.5.1.jar",
+                    "id": "6614964",
+                    "parent_id": "1232978",
+                    "hashes": {
+                        "sha1": "c98cabd16f4e1a869be8f1fba3bb0f465d830967",
+                        "md5": "77c94b1fab2f290ba95296c53e8896d0"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 278989,
+                    "date_published": "2025-06-04T18:47:52.647Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "create_mobile_packages-1.21.1-0.5.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1vXRfEHZ/versions/oEvll7A7/create_mobile_packages-1.21.1-0.5.1.jar",
+                    "id": "oEvll7A7",
+                    "parent_id": "1vXRfEHZ",
+                    "hashes": {
+                        "sha512": "78edf933a97dba14731243285056e90a0a43af86bda659cd69460d2abd93f91f7f1e246dbbca48ed13c4abf140a30847aff881460a7078d18801a18c55efb923",
+                        "sha1": "c98cabd16f4e1a869be8f1fba3bb0f465d830967"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 278989,
+                    "date_published": "2025-06-04T18:47:56.950249Z"
                 }
             ]
         },
